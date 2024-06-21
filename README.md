@@ -1,7 +1,7 @@
 ## NLP weather Chatbot API
 
 A NLP project leveraging NLTK for extracting weather data.
-Accurate weather is retrieved from openweathermap api.
+Accurate weather data is retrieved from openweathermap api.
 
 ### Requirements
 
