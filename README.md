@@ -20,6 +20,8 @@ Set up environment variables:
   OPENWEATHERMAP_API_KEY=your_api_key_here
   ```
 
+You can get your API KEY here : https://home.openweathermap.org/api_keys
+
 ### Run
 
 ````
