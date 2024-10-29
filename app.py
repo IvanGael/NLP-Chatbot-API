@@ -155,7 +155,7 @@ def process_temperature_query(query, lat=None, lon=None, city_name=None):
         if sentiment['label'] == 'POSITIVE':
             return {"message": "Hello! How can I help you with weather information?"}
         else:
-            return {"message": "I'm here to help with weather-related queries. Could you please ask about the temperature or forecast for your location?"}
+            return {"message": "Oups! Could you please ask about weather-related queries ?"}
 
 @app.route('/chat', methods=['POST'])
 def chat():
